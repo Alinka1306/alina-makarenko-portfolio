@@ -12,4 +12,5 @@
 
 #projects .card .card-body .card-subtitle a, #contact div a i.bi {color: #f6ed5e;}
 
-#projects .accordion .accordion-button:not(.collapsed) {background-color: #fbf8be;}
+#projects .accordion .accordion-item {border: 1px solid #fbf8be;}
+#projects .accordion .accordion-button:not(.collapsed) {background-color: #fbf8be; shadow: none;}
