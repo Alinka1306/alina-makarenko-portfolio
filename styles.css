@@ -10,4 +10,4 @@
   height: 100%;
 }
 
-#projects .card .card-body .card-subtitle a {color: #f6ed5e;}
+#projects .card .card-body .card-subtitle a, #contact div a i.bi {color: #f6ed5e;}
