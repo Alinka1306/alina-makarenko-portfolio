@@ -9,3 +9,5 @@
   max-width: 150px;
   height: 100%;
 }
+
+#projects .card .card-body .card-subtitle {color: #f6ed5e;}
