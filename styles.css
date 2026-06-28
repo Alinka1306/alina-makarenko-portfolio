@@ -12,5 +12,5 @@
 
 #projects .card .card-body .card-subtitle a, #contact div a i.bi {color: #f6ed5e;}
 
-#projects .accordion .accordion-item {border: 1px solid #fbf8be;}
-#projects .accordion .accordion-button:not(.collapsed) {background-color: rgba(251, 248, 190, 0.5); shadow: none; color: black;}
+/* #projects .accordion .accordion-item {border: 1px solid #fbf8be;}*/
+#projects .accordion .accordion-button:not(.collapsed) {background-color: rgba(251, 248, 190, 0.5); color: black;}
